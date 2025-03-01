@@ -1,0 +1,4 @@
+If I was hired to enable data analytics,I would try to first understand the domain of the company. 
+I would then list out the required and crucial data.
+I will talk to the end users and try to understand their requirements.
+Next,I will try to devise a method which kkeeps in mind the size of the data and the budget of the company dedicated for the project.
